@@ -111,7 +111,7 @@ body::before{
 .home-content h1::before{
     content: '';
     position: absolute;
-    top: 0;
+    top: -2px;
     right: 0;
     width: 100%;
     height: 100%;
